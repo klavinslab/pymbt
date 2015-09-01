@@ -1,2 +1,2 @@
 # pymbt
-Coral has replaced pymbt, see README below.
+`coral` has replaced pymbt, [click here](github.com/klavinslab/coral) to use `coral`.
